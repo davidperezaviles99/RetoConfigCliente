@@ -2,7 +2,7 @@ spring:
   application:
     name: reto
   profiles:
-    active: desarrollo
+    active: produccion
   cloud:
     config:
       enabled: true
